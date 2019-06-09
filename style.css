@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.button-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button {
+    padding: 10px;
+    font-size: 5rem;
+    margin-top: 15%;
+    border: 5px solid gray;
+    border-radius: 4px;
+    outline: none;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+
+.hex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
